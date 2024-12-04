@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sahil-source-stack.github.io/My-PortfolioBlog-Hosting/](https://sahil-source-stack.github.io/My-PortfolioBlog-Hosting/)
 
-- 💬 Ask me about **Python || UI Web-Dev**
+- 💬 Ask me about **Frontend-Dev**
 
 - 📫 How to reach me **sahil18329@gmail.com**
 
